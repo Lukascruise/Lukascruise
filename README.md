@@ -1,11 +1,13 @@
-# Hi there 👋
+# **Hi there 👋**
 I'm going to be a developer in the future, so look forward to it.
+
+
 
 ## **🛠️ Development technology stack** 
 - Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
 - Github <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />         
-- Pycharm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original-wordmark.svg" /> 
+
 
 <!--
 **Lukascruise/Lukascruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
