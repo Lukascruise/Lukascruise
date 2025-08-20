@@ -4,8 +4,8 @@ I'm going to be a developer in the future, so look forward to it.
 
 
 ## **🛠️ Development technology stack** 
--  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 
 <!--
