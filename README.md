@@ -4,9 +4,8 @@ I'm going to be a developer in the future, so look forward to it.
 
 
 ## **🛠️ Development technology stack** 
-- Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
-- Github <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />         
+-  <20 클래스="devicon--"></20> 유색
+          
 
 
 <!--
