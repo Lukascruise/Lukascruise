@@ -4,8 +4,9 @@ I'm going to be a developer in the future, so look forward to it.
 
 
 ## **🛠️ Development technology stack** 
--   <link rel="스타일시트" 유형='텍스트/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  <20 class="devicon-github-original"></20>
-          
+-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<i class="devicon-github-original" style="font-size: 24px;"></i>
 
 
 <!--
