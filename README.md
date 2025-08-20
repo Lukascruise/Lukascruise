@@ -2,7 +2,7 @@
 I'm going to be a developer in the future, so look forward to it.
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" />
 
 
 <!--
