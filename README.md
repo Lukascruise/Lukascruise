@@ -4,7 +4,7 @@ I'm going to be a developer in the future, so look forward to it.
 
 
 ## **🛠️ Development technology stack** 
--  <20 클래스="devicon--"></20> 유색
+-   <link rel="스타일시트" 유형='텍스트/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <20 클래스="devicon--"></20> 유색
           
 
 
