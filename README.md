@@ -1,15 +1,17 @@
-# **Hi there 👋**
+# Hi there 👋
 I'm going to be a developer in the future, so look forward to it.
-<br>
-<br>
-## Development technology stack🛠️
-- Linux ,  Python , Github <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" /> 
-<br>
-<br>
-- ![Top Langs](https://m24k.vercel.app/api/top-langs/?username=Lukascruise&layout=compact&theme=nord)
 
-        
+## Development technology stack🛠️
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" alt="GitHub" />
+</p>
+
+## Stats 📊
+![Your GitHub Stats](https://m24k.vercel.app/api?username=Lukascruise&show_icons=true&theme=nord)
+![Top Langs](https://m24k.vercel.app/api/top-langs/?username=Lukascruise&layout=compact&theme=nord)
 
 Here are some ideas to get you started:
 
