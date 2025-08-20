@@ -10,7 +10,7 @@ I'm going to be a developer in the future, so look forward to it.
 </p>
 
 ## Stats 📊
-![Your GitHub Stats](https://m24k.vercel.app/api?username=Lukascruise&show_icons=true&theme=nord)
+![Your GitHub Stats](https://m24k.vercel.app/api?Lukascruise=Lukascruise&show_icons=true&theme=nord)
 ![Top Langs](https://m24k.vercel.app/api/top-langs/?username=Lukascruise&layout=compact&theme=nord)
 
 Here are some ideas to get you started:
