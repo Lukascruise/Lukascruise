@@ -1,6 +1,8 @@
 # **Hi there 👋**
 I'm going to be a developer in the future, so look forward to it.
-
+<br>
+<br>
+Development technology stack🛠️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" />
         
