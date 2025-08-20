@@ -4,8 +4,9 @@ I'm going to be a developer in the future, so look forward to it.
 <br>
 ## Development technology stack🛠️
 - Linux ,  Python , Github <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" /> <br>
+<br> <br>
+![GitHub Stats](https://m24k.vercel.app/api?username=Lukascruise&show_icons=true&theme=nord)
 
         
 
