@@ -1,4 +1,5 @@
 # Hi there 👋
+I couldn't stand my curiosity so I turned back and took the easy way out.
 I'm going to be a developer in the future, so look forward to it.
 
 ## Development technology stack🛠️
