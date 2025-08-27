@@ -14,6 +14,6 @@ I'm going to be a developer in the future, so look forward to it.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukascruise&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukascruise&layout=compact&theme=nord)
 
-Here are some ideas to get you started: let's just get started
+Here are some ideas to get you started: There's no such thing, just start
 
 
