@@ -22,4 +22,4 @@ I'm going to be a developer in the future, so look forward to it.
 
 <hr>
 ## ✉️ Contact
-- <a href="rmeo4692@gmail.com">이메일 보내기</a>
+- <a href="mailto:rmeo4692@gmail.com">이메일 보내기</a>
