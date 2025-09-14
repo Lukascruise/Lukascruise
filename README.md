@@ -1,6 +1,8 @@
-<head1> Hi there 👋 </head1>
-I can't stand my curiosity, so I take the difficult path instead of the easy one.
-I'm going to be a developer in the future, so look forward to it.
+<h1>안녕하세요! 👋</h1>
+<p>
+  I can't stand my curiosity, so I take the difficult path instead of the easy one.<br>
+  I'm going to be a developer in the future, so look forward to it.
+</p>
 
 ## Development technology stack🛠️
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" />
@@ -12,7 +14,7 @@ I'm going to be a developer in the future, so look forward to it.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukascruise&layout=compact&theme=nord)
 
 <hr>
-## My Development Philosophy
+## 나의 개발 철학
 "There's no such thing, just start."
 
 저는 완벽한 계획은 없다고 생각합니다. 일단 시작하고 문제를 해결하며 배우는 것이 개발자로서의 가장 큰 성장 동력이라고 믿습니다.
